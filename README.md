@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Han-0107
 - 👀 I’m interested in FPGA/IC
-- 🌱 I’m currently learning the method of cpu-design
+- 🌱 I’m currently learning the method of designing a riscv cpu
 - 💞️ I’m looking to collaborate on design different types of IP/CPU
 - 📫 How to reach me 1407210129@csu.edu.cn
 
