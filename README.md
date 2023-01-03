@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Han-0107
+- 👋 Hi, I’m Han Yaohui
 - 👀 I’m interested in FPGA/IC Design
 - 🌱 I’m currently learning the ysyx project
 - 💞️ I’m looking to collaborate on designing a powerful CPU
