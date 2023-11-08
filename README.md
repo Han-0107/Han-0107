@@ -6,7 +6,7 @@
  
 Welcome to my Github page! I am Yaohui and I am currently finishing my Applied Physics Bachelor degree at the Central South University!  
  
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/Han-0107/CrowdSensing/blob/master/from_dear_lac.jpg" width="50%" height="auto" />
  
  
 #### 🌱 Things I am currently working on: 
