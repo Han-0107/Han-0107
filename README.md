@@ -4,4 +4,4 @@
 - 💞️ I’m looking to publish a CCF-A!!!
 - 📫 How to reach me: **1312692068@qq.com** or **1407210129@csu.edu.cn**
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Han-0107&show_icons=true&theme=tokyonight" /> </div>
+[![Status](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Han-0107)](https://github.com/ShengyuanWang/github-readme-stats)
