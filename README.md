@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Han-0107)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yaohui-han-74296729a/)
  
-Welcome to my Github page! I am Yaohui and I am currently finishing my Applied Physics Bachelor degree at the Central South University!  
+Welcome to my Github page! I am Yaohui and I am currently finishing my Applied Physics Bachelor degree at the Central South University and pursuing offers from top universities in the world! 
  
 <img align="right" alt="img" src="https://github.com/Han-0107/CrowdSensing/blob/master/from_dear_lac.jpg" width="50%" height="auto" />
  
