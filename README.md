@@ -17,7 +17,7 @@ Welcome to my Github page! I am Yaohui and I am currently finishing my Applied P
 - Waking up earlier to make good use of the day
 - Coding every day
 - Exercising 5 days a week
-- Pursuing offers from top universities in the world
+- Getting offers from top universities in the world
  
 #### :computer: Programming languages and tools: 
 <p>
