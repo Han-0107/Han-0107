@@ -10,7 +10,7 @@ Welcome to my Github page! I am Yaohui and I am currently finishing my Applied P
  
  
 #### 🌱 Things I am currently working on: 
-- Finishing my first academic paper  
+- Finishing my third academic paper  
 - Learning about Internet of Things and Machine Learning 
  
 #### :muscle: Things I am challenging myself with:
