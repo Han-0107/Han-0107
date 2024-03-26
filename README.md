@@ -7,7 +7,6 @@
 Welcome to my Github page! I am Yaohui and I am currently finishing my Applied Physics Bachelor degree at the Central South University and pursuing PhD offers from top universities in the world! 
  
 <img align="right" alt="img" src="https://github.com/Han-0107/Graphs/blob/master/from_dear_lac.jpg" width="50%" height="auto" />
- ![avatar](https://github.com/Han-0107/Han-0107/assets/105989683/34e3b70e-debb-4fa2-b878-f56646405cb7)
  
  
 #### 🌱 Things I am currently working on: 
