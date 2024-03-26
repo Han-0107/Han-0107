@@ -7,6 +7,7 @@
 Welcome to my Github page! I am Yaohui and I am currently finishing my Applied Physics Bachelor degree at the Central South University and pursuing PhD offers from top universities in the world! 
  
 <img align="right" alt="img" src="https://github.com/Han-0107/Graphs/blob/master/from_dear_lac.jpg" width="50%" height="auto" />
+ ![avatar](https://github.com/Han-0107/Han-0107/assets/105989683/34e3b70e-debb-4fa2-b878-f56646405cb7)
  
  
 #### 🌱 Things I am currently working on: 
@@ -22,7 +23,7 @@ Welcome to my Github page! I am Yaohui and I am currently finishing my Applied P
 #### :computer: Programming languages and tools: 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Han-0107&show_icons=true&hide_border=true" />
- 
+
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
