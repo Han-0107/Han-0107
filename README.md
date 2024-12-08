@@ -4,20 +4,23 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Han-0107)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yaohui-han-74296729a/)
  
-Welcome to my Github page! I am Yaohui and I am currently finishing my Applied Physics Bachelor degree at the Central South University and pursuing PhD offers from top universities in the world! 
+Welcome to my Github page! I am currently finishing my BSc degree at CSU and preparing to pursue my Ph.D. degree at CUHK! 
  
 <img align="right" alt="img" src="https://github.com/Han-0107/Graphs/blob/master/from_dear_lac.jpg" width="50%" height="auto" />
  
  
-#### 🌱 Things I am currently working on: 
-- Finishing my third academic paper  
-- Learning about EDA and Machine Learning 
+#### 🌱 Research Interests: 
+- Electronic Design Automation
+- Computer Vision
+- Large Language Model
+- AI + X
  
-#### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding every day
-- Exercising 5 days a week
-- Getting offers from top universities in the world
+#### :muscle: Things I want to learn better:
+- Basketball
+- Badminton
+- Racing
+- Musical Instrument
+- ...
  
 #### :computer: Programming languages and tools: 
 <p>
